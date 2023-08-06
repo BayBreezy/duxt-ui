@@ -55,6 +55,8 @@
     variant?: Props["variant"];
     /** Size of the button */
     size?: Props["size"];
+    /**Click handler  */
+    onClick?: (e: MouseEvent) => void;
   }>();
 
   const elType = computed(() => {
