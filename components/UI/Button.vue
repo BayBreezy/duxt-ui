@@ -4,6 +4,7 @@
     :to="to"
     :disabled="disabled"
     :href="href"
+    @click="onClick"
     :class="cn(variants({ size, variant, class: props.class }))"
   >
     <slot />
