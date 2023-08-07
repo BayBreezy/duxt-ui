@@ -9,7 +9,7 @@
       :show="show"
       transition-name="popover"
     >
-      <HPopoverButton @click="show = !show" as="div" @mouseover="open()">
+      <HPopoverButton as="div" @mouseover="open()">
         <slot></slot>
       </HPopoverButton>
 
