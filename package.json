@@ -18,16 +18,16 @@
     "format:prettier": "prettier --write ."
   },
   "devDependencies": {
-    "@nuxt/devtools": "0.7.1",
+    "@nuxt/devtools": "0.7.5",
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@tailwindcss/forms": "^0.5.4",
     "@tailwindcss/typography": "^0.5.9",
-    "@types/node": "20.4.5",
-    "@types/prettier": "^2.7.3",
+    "@types/node": "20.4.8",
+    "@types/prettier": "^3.0.0",
     "nuxt": "^3.6.5",
-    "prettier": "^3.0.0",
+    "prettier": "^3.0.1",
     "prettier-plugin-tailwindcss": "^0.4.1",
-    "tailwind-scrollbar": "^3.0.4"
+    "tailwind-scrollbar": "^3.0.5"
   },
   "dependencies": {
     "@headlessui-float/vue": "^0.11.2",
@@ -38,12 +38,12 @@
     "@tanstack/vue-table": "^8.9.3",
     "@vueform/multiselect": "^2.6.2",
     "@vueform/slider": "^2.1.7",
-    "@vueuse/nuxt": "^10.2.1",
+    "@vueuse/nuxt": "^10.3.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "dayjs-nuxt": "^1.1.2",
     "nuxt-headlessui": "^1.1.4",
-    "nuxt-icon": "^0.4.2",
+    "nuxt-icon": "^0.5.0",
     "nuxt-lodash": "^2.5.0",
     "tailwind-merge": "^1.14.0",
     "v-calendar": "^3.0.3"
